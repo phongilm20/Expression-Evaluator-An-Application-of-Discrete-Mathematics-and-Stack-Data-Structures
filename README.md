@@ -38,7 +38,7 @@ Evaluates the postfix tokens using a stack to compute the final numeric result.
 
 ---
 
-## Example Usages (copy & paste directly)
+## Example Usages 
 
 ### Example 1
 **Input:**  
